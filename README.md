@@ -1,4 +1,4 @@
-# langchain-cheatsheet
+# Langchain-Agents-Cheatsheet
 Langchain Cheat Sheet for Quick Review and Usage.
 
 # Table of Contents
